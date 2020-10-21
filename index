@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, init-scale=1.0">
+    <title>Host</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css">
+    <link rel="stylesheet" href="./css/me.css">
+
+</head>
+<body>
+<nav class="ui inverted attached segment m-padded-tb-mini">
+    <div class="ui container">
+        <div class="ui inverted secondary menu">
+            <h2 class="ui teal header item">Creed</h2>
+            <a href="#" class="item"><i class="home icon"></i>Host</a>
+            <a href="#" class="item"><i class="idea icon"></i>Category</a>
+            <a href="#" class="item"><i class="tags icon"></i>Label</a>
+            <a href="#" class="item"><i class="info icon"></i>About</a>
+            <div class="right item">
+                <div class="ui icon inverted transparent input">
+                    <input type="text" placeholder="Search">
+                    <i class="search link icon"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+</div>
+
+<footer class="ui inverted vertical segment">
+    <div class="ui center aligned container">
+        <div class="ui inverted divided grid">
+            <div class="three wide column">
+                <img src="" class="ui rounded image" alt="Here used to be a picture" style="width: 100px">
+            </div>
+            <div class="three wide column">
+                <h4 class="ui inverted header">Bonus</h4>
+                <div class="ui inverted link list">
+                    <a href="https://www.google.com" class="item">www.google.com</a>
+                    <a href="https://www.bilibili.com" class="item">www.bilibili.com</a>
+                    <a href="https://www.bing.com" class="item">www.bing.com</a>
+                </div>
+            </div>
+            <div class="three wide column">
+                <h4 class="ui inverted header">Contact me</h4>
+                <div class="ui inverted h1">Mail:1276447601@qq.com</div>
+            </div>
+            <div class="seven wide column">
+                <h2 class="ui inverted header">Creed</h2>
+                <p style="color: aquamarine" class="m-text-thin m-text-spaced m-opacity-mini">
+                    Welcome to my personal blog,Creed.As its name shows, here is a platform where you can show
+                    whatever you wanner say as well as record your dairy life secretly.</p>
+            </div>
+        </div>
+        <div class="ui inverted section divider"></div>
+        <p class="m-text-thin m-text-spaced m-opacity-mini">@Copyright 2020 - 10 - 17 designed by anx</p>
+    </div>
+
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.2/dist/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.js"></script>
+</body>
+</html>
